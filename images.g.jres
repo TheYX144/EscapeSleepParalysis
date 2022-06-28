@@ -1,0 +1,17 @@
+{
+    "image2": {
+        "data": "hwQQABAAAAAAAAAAAAAA8AAAAAAAAAD/AAAAAAAAAP8AAP//DwDw/wDw////APD/APAR//////8AHxH///////AfEf//////8P////////8A/x/x/////wD/H/H/////AAAQ8f////8AAAAA8P///wAAAAAA8P//AAAAAADw//8AAAAAAAAA/w==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "paralysis man1"
+    },
+    "image1": {
+        "data": "hwQQABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADu3T0PAAAAAO7RM/8AAAAA7t8z8wAAAADe3TPzAAAAAO7dM/MAAAAA3tE98wAAAADu3zPzAAAAAO7dMwMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "paralyzed"
+    },
+    "*": {
+        "mimeType": "image/x-mkcd-f4",
+        "dataEncoding": "base64",
+        "namespace": "myImages"
+    }
+}
