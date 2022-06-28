@@ -7,6 +7,9 @@ namespace StatusBarKind {
 scene.onOverlapTile(SpriteKind.Player, assets.tile`myTile`, function (sprite, location) {
     game.over(true, effects.splatter)
 })
+controller.combos.attachCombo("a+b", function () {
+    game.over(true, effects.splatter)
+})
 scene.onOverlapTile(SpriteKind.Player, assets.tile`myTile2`, function (sprite, location) {
     game.over(false, effects.dissolve)
 })
